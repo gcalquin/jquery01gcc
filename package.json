@@ -1,0 +1,7 @@
+{
+  "name": "jquery01",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}

@@ -1,0 +1,19 @@
+.alert {
+    background-color: rgb(183, 248, 183);
+    color: rgb(0, 0, 0);
+    padding: 3px 10px;
+}
+
+
+.alert-close {
+    float: right;
+    cursor: pointer;
+}
+
+.boton{
+
+}
+
+.contenido{
+    display: none;
+}
